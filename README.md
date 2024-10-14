@@ -15,9 +15,13 @@ The main goal of this project is to identify the conditions contributing to COVI
 ## Dataset Description:
 
 **Title**: Conditions Contributing to COVID19 Deaths by State and Age Provisional 2020-2023
+
 **Source**:   CDC (Centre for Disease Control and Prevention)
+
 **Content**: The dataset contains health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19) by age group and jurisdiction of occurrence.
+
 **Variables**: Date, Year, Month, State, Condition, Age group, COVID-19 Deaths, Number of Mentions on the death certificate
+
 
 ## Tools
 Analysis has been done using Python with the following supporting libraries:
