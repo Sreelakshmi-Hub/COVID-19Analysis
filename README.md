@@ -1,6 +1,7 @@
 # COVID-19Analysis
 An in-depth analysis of COVID-19 data through advanced analytical methods using Python such as exploring relationships between variables with the help of exploratory visual analysis, geospatial analysis, implementing supervised and unsupervised machine learning algorithms and time series analysis to derive meaningful insights.
 
+![Picture1](https://github.com/Sreelakshmi-Hub/COVID-19Analysis/blob/main/covid-19.jfif)
 
 # Analysis of COVID-19 Data
 **Objective**:
