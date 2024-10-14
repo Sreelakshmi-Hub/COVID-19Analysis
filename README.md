@@ -22,6 +22,8 @@ The main goal of this project is to identify the conditions contributing to COVI
 
 **Variables**: Date, Year, Month, State, Condition, Age group, COVID-19 Deaths, Number of Mentions on the death certificate
 
+**United States JSON File**: To draw the outline of the United States, as well as the borders between the states, upon which COVID-10 data can be mapped.
+
 
 ## Tools
 Analysis has been done using Python with the following supporting libraries:
@@ -31,7 +33,9 @@ Analysis has been done using Python with the following supporting libraries:
 - Matplotlib: for data visualizations
 - SciPy: for mathematical equations
 - Scikit-Learn: Machine Learning Algorithims
+- Folium & JSON: Spatial Analysis
 
 ## Project Deliverables
 The project culminates in a comprehensive analysis, backed by Python, visualizations, and a narrative that translates complex data into actionable business insights.
+
 **Visualizations**: Check out the [Tableau Public Dashboard](https://public.tableau.com/app/profile/sreelakshmi.sreekala.devi/viz/COVID_19_Analysis/AnalysisofCOVID-19Data?publish=yes) for interactive insights.
